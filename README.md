@@ -4,7 +4,7 @@
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow)](https://huggingface.co/datasets/YuiMax/DeepTurtle)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Website](https://img.shields.io/badge/Play-Haiguitang.net-blue)](https://haiguitang.net)
+[![Website](https://img.shields.io/badge/Play-turtlenoir.com-blue)](https://turtlenoir.com)
 
 **A Logic-Grounded Lateral Thinking Benchmark for LLMs**
 *Evaluating Implicit Reasoning, Hallucination Detection, and Instruction Following.*
@@ -21,7 +21,7 @@
 
 Unlike traditional QA datasets, DeepTurtle focuses on **non-monotonic reasoning** where the premise is vague, and the truth is hidden. It introduces a novel **Logic Profile** engine to strictly define the boundaries of "Truth," enabling precise detection of model hallucinations—particularly referencing failure modes observed in **DeepSeek** models.
 
-👉 **Play the Game:** [https://haiguitang.net](https://haiguitang.net)
+👉 **Play the Game:** [https://turtlenoir.com](https://turtlenoir.com)
 
 ## 💾 Dataset
 
